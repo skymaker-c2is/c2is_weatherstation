@@ -159,7 +159,8 @@ void getSensorData() {
 
   // Heater disabled.
   si7021.setHeater(HTU21D_OFF);
-  si7021.setHeaterLevel(0x00);
+
+  //si7021.setHeaterLevel(0x00);
 
   /* This just serves as an example how to control the integrated heater of the Si7021.
   if((humidity >= 80.0 && humidity < 90.0) || temperature_si < 1.0) {

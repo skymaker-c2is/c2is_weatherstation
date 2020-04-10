@@ -1,11 +1,11 @@
 {
-"deviceName": "Garten",
-"wifiSsid": "gadgets.home.skymaker.info",
-"wifiPassword": "oi3498dfgh3498sgflkh",
-"mqttServer": "192.168.70.13",
+"deviceName": "StationName",
+"wifiSsid": "YourSSID",
+"wifiPassword": "YourPassword",
+"mqttServer": "mqttIP",
 "mqttPort": 1883,
 "mqttTopic: "weatherData",
-"updateServer": "192.168.70.13",
+"updateServer": "updateIP",
 "updatePort": 80,
 "updatePath": "/update/update.php"
 }
