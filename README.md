@@ -1,6 +1,6 @@
 # C2IS Weatherstation
 
-*Early developement. Not tested yet.*
+*Early development. Not tested yet.*
 
 This is another firmware solution for the famous "Solar Powered WiFi Weather Station" from Open Green Energy: https://www.instructables.com/id/Solar-Powered-WiFi-Weather-Station-V20/
 
