@@ -1,5 +1,7 @@
 # C2IS Weatherstation
 
+*Early developement. Not tested yet.*
+
 This is another firmware solution for the famous "Solar Powered WiFi Weather Station" from Open Green Energy: https://www.instructables.com/id/Solar-Powered-WiFi-Weather-Station-V20/
 
 Since I don't like "cloud"-services, I wanted to host everything on my own server and ended up with a mosquitto + Telegraf + InfluxDB + Grafana stack. This is the firmware part. It features OTA updates and device-specific configuration stored in the SPIFFS as a json file.
